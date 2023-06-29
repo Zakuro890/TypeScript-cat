@@ -14,7 +14,7 @@ npm install next react react-dom
 ```arduino:arduino
 npm run dev
 ```
-4.ブラウザでhttp://localhost:3000にアクセスし、inexページを表示します。
+4.ブラウザでhttp://localhost:3000にアクセスし、indexページを表示します。
 #### コードの説明
 インポート
 ```javascript
